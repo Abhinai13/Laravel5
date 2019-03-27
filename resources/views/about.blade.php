@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    About this homepage
+                    About this website
                 </div>
 
                 <div class="links">
